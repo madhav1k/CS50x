@@ -1,0 +1,15 @@
+Times:
+
+10 simulations: 0m0.024s
+100 simulations: 0m0.027s
+1000 simulations: 0m0.031s
+10000 simulations: 0m0.160s
+100000 simulations: 0m0.757s
+1000000 simulations: 0m6.888s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?: Almost all were incorrect except for Belgium being one of the top 4 winners (still in the wrong spot though). Belgium was on the correct #3 spot with 100 simulations.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: after 1000 as the predictions are wrong anyways so why spend temporal resources on more simulations, when similar results can be achieved with a fraction of the spent time. But the predictions kind of stabilized starting from 1000 simulations.

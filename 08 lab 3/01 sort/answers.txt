@@ -1,0 +1,6 @@
+sort1 uses: Bubble Sort
+How do you know?: Because Bubble Sort has Ω(n) it is significantly faster on sorted list than Selection Sort, and that's what is observed
+sort2 uses: Merge Sort
+How do you know?: Because Merge Sort has O(n*log(n)) it is significantly faster on random list than Bubble & Selection Sort, and that's what is observed
+sort3 uses: Selection Sort
+How do you know?: Because Selection Sort has Ω(n^2) it is significantly slower on sorted list than Bubble Sort, and that's what is observed
