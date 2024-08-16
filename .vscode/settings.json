@@ -1,0 +1,12 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "random": "c",
+        "cs50.h": "c",
+        "helpers.h": "c",
+        "resource.h": "c",
+        "dictionary.h": "c",
+        "time.h": "c",
+        "struct_rusage.h": "c"
+    }
+}
